@@ -1,0 +1,16 @@
+# Unity generated folders
+Library/
+Temp/
+Logs/
+Obj/
+Build/
+Builds/
+UserSettings/
+
+# Blender backups
+*.blend1
+*.blend2
+
+# OS files
+Thumbs.db
+.DS_Store
